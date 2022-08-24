@@ -12,7 +12,7 @@ global.APIs = {
 global.APIKeys = {
 	'https://api.lolhuman.xyz': 'apikey Lhu',
 	'https://api.dapuhy.ga': 'regis dulu',
-	'https://zenzapi.xyz': 'regis dulu',
+	'https://zenzapi.xyz': '1f5fe2ce6c7a',
 }
 
 // Other
