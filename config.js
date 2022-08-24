@@ -11,7 +11,7 @@ global.APIs = {
 // Apikey Website Api
 global.APIKeys = {
 	'https://api.lolhuman.xyz': '4dd8a6b73713260e0afdc496',
-	'https://api.dapuhy.ga': 'regis dulu',
+	'https://api.dapuhy.ga': '-',
 	'https://zenzapi.xyz': '1f5fe2ce6c7a',
 }
 
