@@ -11,7 +11,7 @@
 * Get apikey lolhuman from [this](https://api.lolhuman.xyz/)
 * Get apikey zenz from [this](https://zenzapi.xyz/)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DikaArdnt/Hisoka-Morrow)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/haibabi/Hisoka2)
 
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
