@@ -10,16 +10,16 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://api.lolhuman.xyz': 'apikey Lhu',
+	'https://api.lolhuman.xyz': '4dd8a6b73713260e0afdc496',
 	'https://api.dapuhy.ga': 'regis dulu',
 	'https://zenzapi.xyz': '1f5fe2ce6c7a',
 }
 
 // Other
-global.owner = ['6288292024190','62882920241908']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6283841403395']
+global.packname = 'ABR Bot'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.sessionName = 'ABR'
 global.connVersion = [2, 2142, 12]
 global.prefa = '!'
 global.sp = '⭔'
